@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tttgame/static/css/main.d653599f.chunk.css",
+    "main.js": "/tttgame/static/js/main.1a2194b9.chunk.js",
+    "main.js.map": "/tttgame/static/js/main.1a2194b9.chunk.js.map",
+    "runtime-main.js": "/tttgame/static/js/runtime-main.aa087506.js",
+    "runtime-main.js.map": "/tttgame/static/js/runtime-main.aa087506.js.map",
+    "static/js/2.b4dbe246.chunk.js": "/tttgame/static/js/2.b4dbe246.chunk.js",
+    "static/js/2.b4dbe246.chunk.js.map": "/tttgame/static/js/2.b4dbe246.chunk.js.map",
+    "index.html": "/tttgame/index.html",
+    "static/css/main.d653599f.chunk.css.map": "/tttgame/static/css/main.d653599f.chunk.css.map",
+    "static/js/2.b4dbe246.chunk.js.LICENSE.txt": "/tttgame/static/js/2.b4dbe246.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa087506.js",
+    "static/js/2.b4dbe246.chunk.js",
+    "static/css/main.d653599f.chunk.css",
+    "static/js/main.1a2194b9.chunk.js"
+  ]
+}
